@@ -1,0 +1,2 @@
+Run: python train_model.py
+This creates rf_model.joblib and feature_columns.json.
